@@ -1,7 +1,8 @@
 # By Ashutosh Singh
 # Title
 # shopify-clone
-# What i Learn and Did it
+# What i Learn
+
 
 while building this project i learn taiwind css and this project is using whole tailwind css for design and responsive page.
 ![a](https://user-images.githubusercontent.com/109889191/189540701-68e45b1a-f63a-4dcb-a81b-27f4d606ff4f.png)
